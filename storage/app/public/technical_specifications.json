@@ -1,0 +1,18 @@
+[
+	{
+		"name:az":["Yüngül lehimli disklər"],
+		"name:ru":["Литые диски"],
+		"status":"1"},
+	{"name:az":["Mərkəzi qapanma"],"name:ru":["Центральный замок"],"status":"1"},
+	{"name:az":["Dəri salon"],"name:ru":["Кожаный салон"],"status":"1"},
+	{"name:az":["Oturacaqların ventilyasiyası"],"name:ru":["Вентиляция сидений"],"status":"1"},
+	{"name:az":["ABS"],"name:ru":["ABS"],"status":"1"},
+	{"name:az":["Park radarı"],"name:ru":["Парктроник"],"status":"1"},
+	{"name:az":["Ksenon lampalar"],"name:ru":["Ксенон"],"status":"1"},
+	{"name:az":["Lyuk"],"name:ru":["Люк"],"status":"1"},
+	{"name:az":["Kondisioner"],"name:ru":["Кондиционер"],"status":"1"},
+	{"name:az":["Arxa görüntü kamerası"],"name:ru":["Камера заднего вида"],"status":"1"},
+	{"name:az":["Yağış sensoru"],"name:ru":["Датчик дождя"],"status":"1"},
+	{"name:az":["Oturacaqların isidilməsi"],"name:ru":["Датчик дождя"],"status":"1"},
+	{"name:az":["Yan pərdələr"],"name:ru":["Боковые шторки"],"status":"1"}
+]

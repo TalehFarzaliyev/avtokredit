@@ -1,0 +1,38 @@
+<?php
+
+return [
+    'title_index'       => 'Car',
+    'title_edit'        => 'Car Edit ',
+    'title_create'      => 'Car Create ',
+    'car_brand'      => 'Car  Brand',
+    'car_model'      => 'Car Model',
+    'car_body'      => 'Create car',
+    'color'      => 'Color',
+    'transmission'      => 'Transmission',
+    'gear'      => 'Gear',
+    'body_type'      => 'Body Type',
+    'fuel_type'      => 'Fuel Type',
+    'company'      => 'Company',
+    'body_group'      => 'Body Group',
+    'city'      => 'City',
+    'credit'      => 'Credit',
+    'credit_period' => 'Credit period',
+    'credit_initial_amount' => 'Credit initial amount',
+    'credit_monthly_amount' => 'Credit monthly amount',
+    'deposit'      => 'Deposit',
+    'deposit_period' => 'Deposit period',
+    'deposit_amount' => 'Deposit amount',
+    'deposit_daily_pay' => 'Deposit daily pay',
+    'barter'      => 'Barter',
+    'currency'      => 'Currency',
+    'engine_volume'      => 'Engine Volume',
+    'power'      => 'Power',
+    'visit'      => 'Visit',
+    'mileage'      => 'Mileage',
+    'year'      => 'Year',
+    'type'      => 'Type',
+    'description'      => 'Description',
+    'pelase add technical' => 'Please add technical specifications',
+    'you can choose as many pictures as you want' => 'You can choose as many pictures as you want.'
+
+];

@@ -1,0 +1,20 @@
+[
+	{"name:az":["Ağ"],"name:ru":["Белый"],"status":"1"},
+	{"name:az":["Bej"],"name:ru":["Бежевый"],"status":"1"},
+	{"name:az":["Bənövşəyi"],"name:ru":["Фиолетовый"],"status":"1"},
+	{"name:az":["Boz"],"name:ru":["Серый"],"status":"1"},
+	{"name:az":["Çəhrayı"],"name:ru":["Розовый"],"status":"1"},
+	{"name:az":["Göy"],"name:ru":["Синий"],"status":"1"},
+	{"name:az":["Gümüşü"],"name:ru":["Серебристый"],"status":"1"},
+	{"name:az":["Mavi"],"name:ru":["Голубой"],"status":"1"},
+	{"name:az":["Narıncı"],"name:ru":["Оранжевый"],"status":"1"},
+	{"name:az":["Qara"],"name:ru":["Черный"],"status":"1"},
+	{"name:az":["Qəhvəyi"],"name:ru":["Коричневый"],"status":"1"},
+	{"name:az":["Qırmızı"],"name:ru":["Красный"],"status":"1"},
+	{"name:az":["Qızılı"],"name:ru":["Золотистый"],"status":"1"},
+	{"name:az":["Sarı"],"name:ru":["Желтый"],"status":"1"},
+	{"name:az":["Tünd qırmızı"],"name:ru":["Бордовый"],"status":"1"},
+	{"name:az":["Yaş Asfalt"],"name:ru":["Мокрый асфальт"],"status":"1"},
+	{"name:az":["Yaşıl"],"name:ru":["Зеленый"],"status":"1"}
+
+]

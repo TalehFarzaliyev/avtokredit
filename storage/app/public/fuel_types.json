@@ -1,0 +1,7 @@
+[
+	{"name:az":["Benzin"],"name:ru":["Бензин"],"status":"1"},
+	{"name:az":["Dizel"],"name:ru":["Дизель"],"status":"1"},
+	{"name:az":["Qaz"],"name:ru":["Газ"],"status":"1"},
+	{"name:az":["Elektro"],"name:ru":["Электро"],"status":"1"},
+	{"name:az":["Hibrid"],"name:ru":["Гибрид"],"status":"1"}
+]

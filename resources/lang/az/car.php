@@ -1,0 +1,38 @@
+<?php
+
+return [
+    'title_index'       => 'Avtomobillər',
+    'title_edit'        => 'Avtomobili redaktə et ',
+    'title_create'      => 'Avtomobil yarat ',
+    'car_brand'      => 'Avtomobil markası',
+    'car_model'      => 'Avtomobil modeli',
+    'car_body'      => 'Ban növü',
+    'color'      => 'Rəng',
+    'transmission'      => 'Sürət qutusu',
+    'gear'      => 'Ötürücü',
+    'body_type'      => 'Ban növü',
+    'fuel_type'      => 'Yanacaq növü',
+    'company'      => 'Şirkət',
+    'body_group'      => 'Body Group',
+    'city'      => 'Şəhər',
+    'credit'      => 'Kredit',
+    'credit_period' => 'Kredit periodu',
+    'credit_initial_amount' => 'Kreditin ilkin ödənişi',
+    'credit_monthly_amount' => 'Kreditin aylıq ödənişi',
+    'deposit'      => 'Depozit',
+    'deposit_period' => 'Depozit periodu',
+    'deposit_amount' => 'Depozit məbləği',
+    'deposit_daily_pay' => 'Depozitin günlük ödənişi',
+    'barter'      => 'Barter',
+    'currency'      => 'Valyuta',
+    'engine_volume'      => 'Mühərrik həcmi',
+    'power'      => 'Mühərrikin at gücü',
+    'visit'      => 'Baxış',
+    'mileage'      => 'Yürüş',
+    'year'      => 'İl',
+    'type'      => 'Tip',
+    'description'      => 'Açıqlama',
+    'pelase add technical' => 'Texniki spesifikasiyalar əlavə edin',
+    'you can choose as many pictures as you want' => 'Siz çoxlu şəkillər əlavə edə bilərsiniz.'
+
+];

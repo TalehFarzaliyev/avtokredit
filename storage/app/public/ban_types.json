@@ -1,0 +1,21 @@
+[
+	{"name:az":["Avtobus"],"name:ru":["Автобус"],"status":"1"},
+	{"name:az":["Dartqı"],"name:ru":["Тягач"],"status":"1"},
+	{"name:az":["Furqon"],"name:ru":["Фургон"],"status":"1"},
+	{"name:az":["Hetçbek"],"name:ru":["Хетчбэк / Лифтбэк"],"status":"1"},
+	{"name:az":["Kabrio"],"name:ru":["Кабрио"],"status":"1"},
+	{"name:az":["Kupe"],"name:ru":["Купе"],"status":"1"},
+	{"name:az":["Mikroavtobus"],"name:ru":["Микроавтобус"],"status":"1"},
+	{"name:az":["Minivan"],"name:ru":["Минивен"],"status":"1"},
+	{"name:az":["Motosiklet"],"name:ru":["Мотоцикл"],"status":"1"},
+	{"name:az":["Offroader / SUV"],"name:ru":["Внедорожник / SUV"],"status":"1"},
+	{"name:az":["Pikap"],"name:ru":["Пикап"],"status":"1"},
+	{"name:az":["Qolfkar"],"name:ru":["Гольфкар"],"status":"1"},
+	{"name:az":["Rodster"],"name:ru":["Родстер"],"status":"1"},
+	{"name:az":["Sedan"],"name:ru":["Седан"],"status":"1"},
+	{"name:az":["Universal"],"name:ru":["Универсал"],"status":"1"},
+	{"name:az":["Van"],"name:ru":["Вэн"],"status":"1"},
+	{"name:az":["Yük maşını"],"name:ru":["Грузовик"],"status":"1"}
+
+]
+
